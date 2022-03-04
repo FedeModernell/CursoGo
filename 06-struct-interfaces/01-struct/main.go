@@ -29,7 +29,7 @@ func main() {
 	p1.imprimir()
 	//fmt.Println(p1)
 	//p1.nombre = "Juan"
-	p1.editNombre("Federico")
+	p1.editNombre("Lautaro")
 
 	p1.imprimir()
 	//fmt.Println(p1)
