@@ -6,7 +6,7 @@ func main() {
 
 	var nombre1 string
 
-	nombre1 = "Hola Mundo persona"
+	nombre1 = "Hola Mundo persona 2444433336"
 	nombre := 26.5
 
 	fmt.Println(nombre1)
@@ -23,3 +23,7 @@ func sumar(a, b int) int {
 	return a + b
 }
 
+
+func sumar2(a, b int) int {
+	return a + b
+}
