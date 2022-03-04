@@ -6,7 +6,7 @@ func main() {
 
 	var nombre1 string
 
-	nombre1 = "Hola Mundo persona 244443333"
+	nombre1 = "Hola Mundo persona 2444433336"
 	nombre := 26.5
 
 	fmt.Println(nombre1)
