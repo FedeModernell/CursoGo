@@ -40,7 +40,7 @@ func main() {
 	}
 
 	p2.imprimir()
-	p2.editNombre("Carlos")
+	p2.editNombre("ffff")
 	p2.imprimir()
 
 	//fmt.Println(p2)
