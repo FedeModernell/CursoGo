@@ -22,3 +22,8 @@ func main() {
 func sumar(a, b int) int {
 	return a + b
 }
+
+
+func sumar2(a, b int) int {
+	return a + b
+}
