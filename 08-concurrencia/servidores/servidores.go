@@ -21,7 +21,6 @@ func revisarServidor(servidor string, canal chan string) {
 func main() {
 	inicio := time.Now()
 
-
 	canal := make(chan string)
 
 	servidores := []string{
@@ -40,7 +39,6 @@ func main() {
 		fmt.Println(<-canal)
 	}
 
-
 	tiempoPaso := time.Since(inicio)
-	fmt.Println("Tiempo de ejecución: ", tiempoPaso)
+	fmt.Println("Tiempo de ejecuciónes: ", tiempoPaso)
 }
